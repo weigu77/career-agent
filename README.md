@@ -53,5 +53,5 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/your-org/career-agent.git
+git clone https://github.com/weigu77/career-agent.git
 cd career-agent
